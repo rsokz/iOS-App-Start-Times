@@ -1,0 +1,21 @@
+PODS:
+  - Bugsnag (6.14.3)
+  - BugsnagNetworkRequestPlugin (6.14.3):
+    - Bugsnag (~> 6.13)
+
+DEPENDENCIES:
+  - Bugsnag
+  - BugsnagNetworkRequestPlugin
+
+SPEC REPOS:
+  trunk:
+    - Bugsnag
+    - BugsnagNetworkRequestPlugin
+
+SPEC CHECKSUMS:
+  Bugsnag: 82cdfff1ddcfa9f06772dbbcab1684dabc9e5545
+  BugsnagNetworkRequestPlugin: af337e67d20caf2633de2cd677ce167ef865206b
+
+PODFILE CHECKSUM: 00cd600c7322f10047351c74b35eeaaccd64bf02
+
+COCOAPODS: 1.10.1
